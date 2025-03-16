@@ -1,0 +1,60 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn import datasets
+
+data = datasets.load_wine(as_frame=True)
+
+print(data)
+print()
+
+X = data.data
+y = data.target
+names = data.target_names
+print(names)
+
+
+df = pd.DataFrame(X, columns=data.feature_names)
+df["wine class"] = data.target
+df["wine class"] = df["wine class"].replace(
+    to_replace=[0, 1, 2], value=["class_0", "class_1", "class_2"]
+)
+print(df)
+
+sns.pairplot(data=df, hue="wine class", palette="Set2")
+plt.show()
+
+print(df.isnull().sum())
+
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=1)
+
+from sklearn.neighbors import KNeighborsClassifier
+import math
+
+print(math.sqrt(len(y_test)))
+
+
+knn = KNeighborsClassifier(n_neighbors=7)
+knn.fit(X_train, y_train)
+pred = knn.predict(X_test)
+
+from sklearn import metrics
+
+print(metrics.accuracy_score(y_test, pred))
+
+
+from sklearn.preprocessing import StandardScaler
+
+sc = StandardScaler()
+
+X_train = sc.fit_transform(X_train)
+X_test = sc.fit_transform(X_test)
+
+knn1 = KNeighborsClassifier(n_neighbors=7, metric="euclidean")
+knn1.fit(X_train, y_train)
+pred2 = knn1.predict(X_test)
+
+print(metrics.accuracy_score(y_test, pred2))
