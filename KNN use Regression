@@ -1,0 +1,48 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+a = pd.read_csv("Scikit-Learn/car csv file/Sport car price.csv")
+print(a)
+print(a.info(), a.isnull().sum())
+
+a["Torque (lb-ft)"] = a["Torque (lb-ft)"].fillna(a["Torque (lb-ft)"].mode()[0])
+a["Engine Size (L)"] = a["Engine Size (L)"].fillna(a["Engine Size (L)"].mode()[0])
+print(a.info(), a.isnull().sum())
+
+b = a.select_dtypes(include="object")
+from sklearn.preprocessing import LabelEncoder
+
+le = LabelEncoder()
+a["Car Make"] = le.fit_transform(a["Car Make"])
+a["Car Model"] = le.fit_transform(a["Car Model"])
+a["Engine Size (L)"] = le.fit_transform(a["Engine Size (L)"])
+a["Horsepower"] = le.fit_transform(a["Horsepower"])
+a["Torque (lb-ft)"] = le.fit_transform(a["Torque (lb-ft)"])
+a["0-60 MPH Time (seconds)"] = le.fit_transform(a["0-60 MPH Time (seconds)"])
+a["Price (in USD)"] = le.fit_transform(a["Price (in USD)"])
+print(a)
+
+print(a.info(), a.isnull().sum())
+
+from sklearn.preprocessing import StandardScaler
+
+st = StandardScaler()
+aa = pd.DataFrame(st.fit_transform(a), columns=a.columns)
+print(aa)
+
+# sns.pairplot(aa)
+# plt.show()
+x = aa.iloc[:, :-1]
+y = aa["Price (in USD)"]
+from sklearn.model_selection import train_test_split
+
+x_train, x_test, y_train, y_test = train_test_split(
+    x, y, test_size=0.2, random_state=42
+)
+
+from sklearn.neighbors import KNeighborsRegressor
+
+kn = KNeighborsRegressor(n_neighbors=3)
+kn.fit(x_train, y_train)
+print(kn.score(x_test, y_test) * 100)
