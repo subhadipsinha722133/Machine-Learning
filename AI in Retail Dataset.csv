@@ -1,0 +1,657 @@
+Country,Online_Consumer,Age,Annual_Salary,Gender,Education,Payment_Method_Credit/Debit,Living_Region,Online_Service_Preference,AI_Endorsement,AI_Privacy_No_Trust ,AI_Enhance_Experience,AI_Satisfication,AI_Tools_Used _Chatbots,AI_Tools_Used_Virtual_Assistant,AI_Tools_Used_Voice&Photo_Search,Payment_Method_COD,Payment_Method_Ewallet,Product_Category_Appliances,Product_Category_Electronics,Product_Category_Groceries,Product_Category_Personal_Care,Product_Category_Clothing
+INDIA,YES,Gen X,Medium High,Female,Masters’ Degree,NO,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,YES,NO,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO
+INDIA,YES,Gen X,Medium High,Male,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,YES,YES,YES,YES,NO,NO
+INDIA,YES,Gen X,High,Male,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,YES,YES,YES,YES,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,YES,YES,NO,YES,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,YES,YES,NO,NO,YES,NO
+INDIA,YES,Millennials,Low,Male,Masters’ Degree,YES,Metropolitan,NO,NO,YES,NO,Unsatisfied,YES,YES,NO,YES,NO,YES,NO,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,NO,NO,Unsatisfied,YES,YES,YES,NO,YES,YES,NO,NO,NO,NO
+INDIA,YES,Gen Z,Medium,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,YES,NO,NO,NO,NO
+INDIA,YES,Gen Z,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,NO,YES,NO,Unsatisfied,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO
+INDIA,YES,Gen Z,High,Male,Highschool Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES
+INDIA,YES,Millennials,Medium High,Female,Doctorate Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,YES,NO,YES
+INDIA,YES,Gen Z,High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen X,High,Female,Doctorate Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Rural Areas,NO,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,YES,YES,NO,NO,YES
+INDIA,YES,Gen Z,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,NO,YES,NO,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,YES,YES,NO,YES,NO,YES,YES
+INDIA,YES,Gen Z,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium High,Male,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,NO,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,YES,YES,NO,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,NO,NO,YES,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,NO,NO,YES
+INDIA,YES,Millennials,Low,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,YES,YES,YES
+INDIA,YES,Gen X,Medium,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,YES,NO,YES
+INDIA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,YES,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,NO,YES,YES
+INDIA,YES,Gen Z,Medium High,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,YES,NO,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,Medium,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,YES,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,NO,Metropolitan,YES,YES,YES,NO,Unsatisfied,YES,YES,NO,YES,YES,NO,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,YES,YES,NO,NO,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,NO,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,NO,YES,NO,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,YES,NO,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,NO,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,YES,NO,NO,YES,YES
+INDIA,YES,Gen Z,Low,Male,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Rural Areas,NO,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,NO,NO,NO,YES,YES
+INDIA,YES,Gen Z,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,NO,NO,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,NO,NO,NO,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,NO,NO,NO,YES,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Unsatisfied,YES,YES,YES,YES,YES,NO,YES,NO,YES,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES
+INDIA,YES,Gen Z,Low,Female,Doctorate Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Male,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen X,Medium High,Female,University Graduate,YES,Metropolitan,NO,NO,YES,NO,Unsatisfied,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,High,Male,Doctorate Degree,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen X,Medium High,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,Doctorate Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Female,Highschool Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen X,Low,Female,Highschool Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Metropolitan,YES,NO,YES,NO,Unsatisfied,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen X,Medium,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,NO,Metropolitan,YES,NO,NO,NO,Unsatisfied,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Rural Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,University Graduate,YES,Rural Areas,NO,YES,YES,NO,Unsatisfied,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,NO,Unsatisfied,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,NO,NO,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,YES,YES,YES,YES,NO,YES,YES
+INDIA,YES,Gen Z,Medium,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,YES,YES,YES,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,YES,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO
+INDIA,YES,Gen Z,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,YES,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,NO,NO,NO
+INDIA,YES,Gen Z,Low,Prefer not to say,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,YES,NO,YES,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,Masters’ Degree,NO,Metropolitan,NO,YES,YES,NO,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Low,Female,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,NO,YES,NO,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,NO,NO,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,YES,NO,YES,NO,NO,YES
+INDIA,YES,Gen Z,Medium,Male,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,NO,YES,YES,YES,YES,NO,YES,YES,NO,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,NO,YES,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,NO,YES,NO
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,NO,YES,NO
+INDIA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,NO,NO,NO
+INDIA,YES,Gen Z,Low,Female,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,NO,YES,NO,NO,NO
+INDIA,YES,Gen Z,Low,Male,Highschool Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO
+INDIA,YES,Gen Z,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,YES,NO,YES,YES,YES,NO,YES
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES
+INDIA,YES,Gen Z,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,NO,YES,NO,YES,YES,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,YES,YES,NO,NO,YES
+INDIA,YES,Millennials,Low,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,NO,YES,YES,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,NO,NO,NO
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,NO,NO,YES,NO,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+INDIA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,NO,NO,YES,NO,NO
+INDIA,YES,Gen Z,High,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO
+INDIA,YES,Millennials,Low,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,NO,NO,YES,NO,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,YES,NO,YES,YES,YES,YES
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,NO,YES,YES
+INDIA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,NO,YES,YES,Unsatisfied,YES,YES,NO,YES,YES,NO,YES,NO,YES,YES
+INDIA,YES,Gen Z,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,NO,YES,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,NO,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,YES,YES,NO,YES,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,YES,NO,YES,NO,YES,NO
+INDIA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,YES,YES,NO
+INDIA,YES,Gen Z,Low,Female,University Graduate,YES,Metropolitan,YES,YES,YES,NO,Unsatisfied,YES,YES,YES,YES,NO,NO,NO,NO,YES,NO
+INDIA,YES,Millennials,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,YES,NO
+INDIA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,YES,NO,NO,NO,YES,NO
+INDIA,YES,Gen Z,Low,Female,Highschool Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+INDIA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Suburban Areas,YES,YES,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Suburban Areas,NO,YES,NO,NO,Unsatisfied,NO,YES,YES,NO,NO,NO,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,NO,Suburban Areas,YES,YES,NO,YES,Satisfied,NO,NO,YES,YES,YES,NO,NO,NO,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,YES,YES
+CHINA,YES,Gen Z,Low,Female,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen Z,High,Female,University Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,NO,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Male,University Graduate,YES,Suburban Areas,NO,YES,NO,NO,Unsatisfied,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Suburban Areas,NO,YES,YES,NO,Satisfied,NO,NO,YES,YES,NO,NO,NO,NO,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,YES,YES,NO,YES,YES
+CHINA,YES,Gen Z,Low,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Highschool Graduate,YES,Suburban Areas,NO,YES,YES,YES,Unsatisfied,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Male,Masters’ Degree,NO,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO
+CHINA,YES,Gen X,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,NO,YES,YES,NO,Satisfied,NO,YES,NO,YES,YES,NO,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,NO,NO,NO,YES,YES
+CHINA,YES,Millennials,High,Male,Doctorate Degree,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,NO,NO,YES,NO,YES,NO,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,NO,YES,NO
+CHINA,YES,Millennials,Medium High,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,NO,NO,Satisfied,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Suburban Areas,YES,YES,YES,NO,Satisfied,NO,NO,NO,NO,NO,YES,NO,YES,YES,YES
+CHINA,YES,Millennials,High,Male,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,High,Female,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,NO,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,NO,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,YES,NO,YES
+CHINA,YES,Baby Boomers,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,NO,NO,YES,NO
+CHINA,YES,Millennials,Medium High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,NO,NO,YES,NO,YES,YES,NO,NO,YES
+CHINA,YES,Baby Boomers,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,YES,NO,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO
+CHINA,YES,Gen Z,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,NO,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,High,Male,Highschool Graduate,YES,Metropolitan,NO,YES,YES,NO,Unsatisfied,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO
+CHINA,YES,Gen X,Medium High,Male,University Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,Medium High,Male,Highschool Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,NO
+CHINA,YES,Gen Z,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES
+CHINA,YES,Gen Z,High,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,YES,NO,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,YES,NO,YES,NO,YES,YES
+CHINA,YES,Baby Boomers,Medium High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,NO,NO,YES,NO,NO,NO,YES,YES,YES,NO
+CHINA,YES,Baby Boomers,High,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,NO,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO
+CHINA,YES,Gen X,Medium High,Female,Masters’ Degree,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,YES,YES,NO,NO
+CHINA,YES,Gen Z,Medium High,Female,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,NO,NO,YES,NO,NO
+CHINA,YES,Gen X,High,Female,Doctorate Degree,NO,Metropolitan,NO,YES,YES,YES,Unsatisfied,NO,NO,YES,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,YES,Suburban Areas,NO,YES,NO,NO,Unsatisfied,NO,NO,NO,YES,NO,NO,YES,NO,YES,NO
+CHINA,YES,Millennials,Medium High,Female,Highschool Graduate,YES,Suburban Areas,NO,YES,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO
+CHINA,YES,Gen X,Medium High,Female,University Graduate,NO,Suburban Areas,YES,YES,NO,NO,Satisfied,NO,NO,NO,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,NO,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,NO,NO,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Male,Highschool Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,YES,YES,NO,YES,NO,NO,YES,NO,NO
+CHINA,NO,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,YES,Unsatisfied,NO,NO,YES,YES,NO,NO,NO,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,NO,NO,YES,NO,YES,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Unsatisfied,NO,YES,NO,NO,NO,NO,YES,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO
+CHINA,YES,Gen X,High,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,Low,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,NO,YES,YES,YES,NO,YES,YES,YES
+CHINA,YES,Gen Z,Medium High,Male,Highschool Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,NO,Baby Boomers,Low,Male,University Graduate,NO,Suburban Areas,NO,NO,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,YES,NO,YES,NO,YES,YES,NO,YES,NO
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,NO,YES,YES,YES,NO
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,High,Male,Highschool Graduate,NO,Metropolitan,YES,NO,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+CHINA,YES,Baby Boomers,High,Male,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,NO,YES,NO,NO,YES,NO,YES,NO,YES,YES
+CHINA,YES,Millennials,Medium High,Male,Highschool Graduate,NO,Metropolitan,NO,YES,YES,NO,Unsatisfied,YES,YES,YES,YES,NO,YES,YES,NO,NO,YES
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO
+CHINA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,NO,YES,NO,NO,Unsatisfied,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Male,Highschool Graduate,YES,Metropolitan,YES,YES,NO,NO,Unsatisfied,NO,YES,YES,YES,NO,YES,YES,NO,NO,NO
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO
+CHINA,YES,Millennials,High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,NO,NO,YES,NO,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Male,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Doctorate Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,YES,YES,YES,YES,YES,NO
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,Low,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,YES,NO,YES,NO,YES
+CHINA,YES,Gen X,High,Male,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,NO,NO,YES,NO,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,YES,NO,YES,NO,NO,YES,YES,NO,YES
+CHINA,NO,Gen Z,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+CHINA,NO,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,NO,NO,Unsatisfied,YES,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,NO,YES,YES,NO,Unsatisfied,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,Doctorate Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,NO,YES,YES,YES
+CHINA,YES,Gen Z,Low,Female,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Unsatisfied,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,NO,NO,Unsatisfied,NO,YES,YES,NO,NO,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,NO,NO,Satisfied,YES,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,NO,Gen X,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,YES,NO,YES,NO,YES
+CHINA,YES,Baby Boomers,Medium High,Male,Doctorate Degree,NO,Metropolitan,YES,YES,YES,NO,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Millennials,Medium High,Female,Highschool Graduate,YES,Metropolitan,NO,YES,YES,YES,Unsatisfied,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Unsatisfied,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Gen Z,High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,YES,YES,NO,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Suburban Areas,NO,YES,NO,YES,Unsatisfied,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO
+CHINA,YES,Gen X,Medium High,Male,Doctorate Degree,NO,Suburban Areas,NO,YES,YES,NO,Satisfied,NO,NO,NO,NO,YES,YES,NO,NO,YES,YES
+CHINA,YES,Millennials,High,Male,Doctorate Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO
+CHINA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,NO,YES,YES,NO,Unsatisfied,NO,YES,NO,NO,NO,YES,YES,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,YES,NO,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Suburban Areas,NO,YES,NO,NO,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen Z,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,NO
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,YES,NO,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,Medium High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,NO,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Millennials,High,Male,Doctorate Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO
+CHINA,YES,Gen Z,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,YES,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Unsatisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Male,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Male,Doctorate Degree,NO,Metropolitan,YES,YES,NO,NO,Unsatisfied,NO,NO,YES,YES,NO,YES,YES,NO,YES,NO
+CHINA,YES,Gen X,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Male,Masters’ Degree,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,NO,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,High,Male,Highschool Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES
+CHINA,YES,Millennials,Low,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Satisfied,NO,NO,YES,NO,NO,NO,YES,YES,YES,NO
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Rural Areas,YES,YES,NO,YES,Satisfied,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Male,Doctorate Degree,NO,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Baby Boomers,High,Male,University Graduate,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,Medium High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,YES,NO,YES,YES,NO,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,YES,NO,Satisfied,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,NO,YES,YES,YES
+CHINA,YES,Gen Z,High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,YES,YES,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,NO,NO,YES,YES,NO,NO,NO,YES,YES
+CHINA,YES,Gen X,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Suburban Areas,YES,YES,YES,YES,Unsatisfied,NO,NO,YES,YES,NO,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,YES,YES,YES,YES,NO,YES,NO,NO,NO
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,NO,YES,YES,YES
+CHINA,YES,Gen Z,Medium High,Male,Masters’ Degree,NO,Suburban Areas,YES,YES,NO,NO,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,NO,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,NO,NO,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Male,Highschool Graduate,YES,Suburban Areas,NO,YES,YES,NO,Unsatisfied,NO,YES,NO,NO,YES,YES,YES,NO,YES,NO
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CHINA,YES,Baby Boomers,High,Female,University Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES
+CHINA,YES,Gen X,High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,NO,YES,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,YES,NO,YES,NO,YES,YES,NO,YES,YES
+CHINA,YES,Baby Boomers,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,NO,NO,NO,YES,YES,YES
+CHINA,YES,Gen Z,High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,YES,YES,YES,NO,NO,YES,YES,YES,NO
+CHINA,YES,Baby Boomers,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,YES,YES,NO,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Suburban Areas,NO,YES,NO,NO,Satisfied,NO,NO,YES,NO,NO,YES,YES,NO,NO,NO
+CHINA,YES,Baby Boomers,Medium High,Male,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,NO,Rural Areas,NO,NO,NO,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,NO,YES,YES,YES,YES,NO,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Baby Boomers,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,YES,YES,NO,YES
+CHINA,YES,Baby Boomers,High,Female,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Unsatisfied,YES,YES,YES,YES,YES,YES,NO,NO,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,NO,YES,NO,YES,NO
+CHINA,YES,Gen X,Medium High,Male,Highschool Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,NO,YES,YES,YES,NO,YES
+CHINA,YES,Baby Boomers,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,YES,YES,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Male,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,NO,YES,YES,NO,NO,YES,NO,NO,YES,YES
+CHINA,YES,Gen X,High,Male,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,YES,NO,NO,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,NO,NO,YES,NO,NO
+CHINA,YES,Gen X,High,Male,Doctorate Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,Doctorate Degree,NO,Suburban Areas,YES,YES,NO,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,NO,YES,YES
+CHINA,YES,Baby Boomers,High,Male,Highschool Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Metropolitan,NO,YES,YES,NO,Satisfied,NO,NO,NO,YES,NO,NO,YES,YES,NO,YES
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,NO,Satisfied,NO,YES,NO,YES,NO,YES,NO,YES,NO,NO
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Unsatisfied,NO,YES,YES,YES,NO,NO,NO,YES,NO,YES
+CHINA,NO,Gen X,High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,NO,NO,YES,YES,NO
+CHINA,YES,Gen X,High,Male,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO
+CHINA,YES,Millennials,Medium High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Gen X,High,Female,Highschool Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,YES,NO,YES,NO,NO,YES,NO,NO,YES
+CHINA,YES,Millennials,High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Unsatisfied,NO,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,NO,NO,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,NO,Unsatisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO
+CHINA,YES,Gen X,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,YES,NO,YES,YES,YES,YES
+CHINA,YES,Gen X,Low,Female,Highschool Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,YES,NO,YES,NO,YES,NO,NO
+CHINA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,YES,YES,NO,NO,NO
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,NO,YES,YES,NO,Satisfied,YES,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,YES,YES,YES,NO,NO,YES,YES,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,NO,NO,YES,YES,NO,YES
+CHINA,YES,Gen Z,Medium High,Male,Masters’ Degree,YES,Metropolitan,NO,YES,YES,NO,Satisfied,NO,YES,NO,NO,YES,NO,YES,NO,YES,YES
+CHINA,YES,Gen X,Medium High,Female,Doctorate Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,NO,YES,YES
+CHINA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,YES,YES,YES,YES,YES,YES
+CHINA,YES,Gen Z,High,Female,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Unsatisfied,YES,YES,NO,NO,YES,NO,YES,YES,YES,NO
+CHINA,YES,Gen X,Medium High,Female,Doctorate Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,Masters’ Degree,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Male,Doctorate Degree,NO,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,NO,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Doctorate Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Gen X,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,YES,NO,NO,YES,YES,YES
+CHINA,YES,Gen X,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,YES,NO,YES,NO,NO
+CHINA,YES,Gen Z,High,Male,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CHINA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,NO,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Millennials,Medium High,Female,Masters’ Degree,NO,Metropolitan,NO,YES,NO,NO,Satisfied,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,YES,YES,YES,NO,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Metropolitan,NO,YES,NO,NO,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES
+CHINA,YES,Gen X,Medium High,Female,Masters’ Degree,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,Low,Male,Highschool Graduate,NO,Metropolitan,NO,YES,NO,NO,Satisfied,NO,NO,YES,YES,NO,NO,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Male,University Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,YES,YES,NO,YES
+CHINA,YES,Gen X,Medium High,Male,Doctorate Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Rural Areas,NO,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Highschool Graduate,NO,Metropolitan,NO,NO,NO,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,NO,NO,YES
+CHINA,YES,Gen X,High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES
+CHINA,YES,Millennials,Medium High,Female,University Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES
+CHINA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,NO,NO,NO,YES,YES
+CHINA,YES,Millennials,High,Male,Highschool Graduate,YES,Metropolitan,YES,YES,NO,NO,Unsatisfied,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO
+CHINA,YES,Millennials,High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,YES,YES,NO,NO,NO
+CHINA,YES,Millennials,High,Female,University Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,Low,Female,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,YES,YES,YES,NO,YES
+CHINA,YES,Gen Z,High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,NO,Satisfied,NO,YES,NO,NO,NO,NO,YES,YES,NO,YES
+CHINA,YES,Millennials,High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,NO,YES,Unsatisfied,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CHINA,YES,Millennials,High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,YES,YES,NO,YES,NO,YES
+CHINA,YES,Millennials,Medium High,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,NO,YES
+CHINA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,NO,YES,YES,NO,YES
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Rural Areas,NO,YES,YES,YES,Satisfied,YES,NO,NO,YES,YES,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Gen X,High,Female,Highschool Graduate,NO,Suburban Areas,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Suburban Areas,NO,NO,YES,YES,Unsatisfied,YES,NO,YES,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen Z,Medium,Female,University Graduate,YES,Metropolitan,NO,NO,NO,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,NO,Unsatisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium,Female,Masters’ Degree,YES,Rural Areas,NO,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,NO,YES,NO,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,YES,YES,NO
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,NO,NO,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,NO,Suburban Areas,YES,NO,YES,NO,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,NO,Suburban Areas,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,YES,NO
+CANADA,YES,Gen Z,Low,Female,University Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,YES,NO,NO,YES,NO,NO,YES
+CANADA,YES,Gen Z,High,Female,Highschool Graduate,YES,Rural Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES
+CANADA,YES,Gen X,Medium High,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,NO,YES,NO,Satisfied,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO
+CANADA,YES,Gen Z,High,Male,Masters’ Degree,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Rural Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,NO,Rural Areas,YES,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Millennials,Medium High,Male,Highschool Graduate,YES,Rural Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Gen Z,Low,Male,Highschool Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Suburban Areas,NO,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO
+CANADA,YES,Gen Z,Medium High,Male,University Graduate,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,YES,YES,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,NO,YES,YES,YES,Unsatisfied,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Suburban Areas,NO,YES,NO,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,NO,NO,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,NO,YES,NO
+CANADA,YES,Millennials,Low,Male,Highschool Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Gen X,High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,NO,YES,NO,NO,Unsatisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,Masters’ Degree,YES,Suburban Areas,NO,YES,NO,NO,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium High,Female,University Graduate,YES,Suburban Areas,NO,YES,YES,YES,Unsatisfied,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO
+CANADA,YES,Gen Z,Medium,Male,University Graduate,YES,Metropolitan,NO,YES,NO,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,NO,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,NO
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Suburban Areas,NO,NO,YES,YES,Unsatisfied,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Rural Areas,NO,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Gen X,Medium,Male,University Graduate,YES,Rural Areas,NO,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,High,Male,Masters’ Degree,YES,Metropolitan,YES,NO,NO,YES,Satisfied,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Rural Areas,NO,YES,YES,YES,Unsatisfied,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Gen Z,Low,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Unsatisfied,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Gen X,High,Male,Masters’ Degree,YES,Suburban Areas,YES,NO,YES,NO,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,NO
+CANADA,YES,Gen X,Medium,Male,University Graduate,YES,Metropolitan,NO,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,NO,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,NO,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Gen X,Medium High,Male,University Graduate,YES,Metropolitan,NO,YES,YES,NO,Unsatisfied,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,NO,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Gen X,High,Female,Masters’ Degree,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Rural Areas,YES,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Gen Z,Medium High,Male,Highschool Graduate,NO,Rural Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,NO,YES,YES,YES,Unsatisfied,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES
+CANADA,YES,Millennials,High,Female,Highschool Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Gen X,High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Unsatisfied,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES
+CANADA,YES,Gen X,Medium,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Gen Z,Low,Male,University Graduate,YES,Rural Areas,NO,YES,NO,YES,Satisfied,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES
+CANADA,YES,Gen X,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,NO,YES,NO,YES
+CANADA,NO,Gen X,Medium,Male,Highschool Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Gen Z,Medium High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Millennials,High,Male,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,NO,NO,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Unsatisfied,YES,NO,NO,NO,YES,NO,YES,YES,NO,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Metropolitan,YES,NO,NO,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen Z,Medium,Male,Highschool Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Female,Doctorate Degree,YES,Suburban Areas,YES,YES,YES,YES,Unsatisfied,YES,YES,YES,NO,NO,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,High,Female,Highschool Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,NO,NO
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Gen Z,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,NO,Unsatisfied,YES,NO,NO,NO,NO,NO,YES,YES,YES,NO
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,NO,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,YES,NO
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO
+CANADA,YES,Gen Z,Medium,Female,University Graduate,YES,Metropolitan,NO,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,Masters’ Degree,NO,Suburban Areas,YES,YES,YES,NO,Unsatisfied,NO,YES,NO,YES,NO,YES,YES,NO,YES,YES
+CANADA,YES,Gen Z,Medium,Male,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,YES,YES,NO,YES,NO
+CANADA,YES,Gen X,Medium,Female,Highschool Graduate,YES,Rural Areas,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Gen X,Medium,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,NO
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Metropolitan,NO,NO,YES,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Gen X,Medium,Male,Highschool Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Gen X,Medium High,Male,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Suburban Areas,YES,NO,YES,NO,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO
+CANADA,NO,Gen X,Medium,Female,Highschool Graduate,YES,Metropolitan,YES,NO,NO,YES,Unsatisfied,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,NO,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Gen X,Medium,Male,University Graduate,NO,Metropolitan,NO,YES,YES,NO,Unsatisfied,YES,NO,NO,NO,YES,NO,YES,NO,YES,NO
+CANADA,YES,Gen X,Medium,Male,Masters’ Degree,YES,Metropolitan,YES,NO,YES,NO,Satisfied,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,NO,YES,YES,YES
+CANADA,YES,Gen Z,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO
+CANADA,YES,Millennials,High,Male,Highschool Graduate,NO,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,YES,NO,YES
+CANADA,YES,Gen X,Medium,Male,Doctorate Degree,NO,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,YES,YES,YES,NO,NO,NO,YES
+CANADA,YES,Millennials,High,Female,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,NO,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,YES,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Rural Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Male,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,YES,NO
+CANADA,YES,Gen Z,Medium,Female,Highschool Graduate,YES,Suburban Areas,NO,NO,YES,YES,Unsatisfied,YES,YES,NO,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Rural Areas,YES,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,NO,NO,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium,Male,University Graduate,YES,Suburban Areas,NO,NO,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO
+CANADA,YES,Gen X,High,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,NO,Satisfied,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO
+CANADA,YES,Gen X,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,NO,Metropolitan,NO,YES,YES,YES,Unsatisfied,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO
+CANADA,YES,Gen Z,Medium,Female,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,High,Male,Highschool Graduate,YES,Metropolitan,NO,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Rural Areas,NO,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Low,Female,Highschool Graduate,YES,Suburban Areas,NO,YES,NO,YES,Satisfied,YES,NO,YES,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,NO,Unsatisfied,YES,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Gen X,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES
+CANADA,YES,Gen X,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Female,Masters’ Degree,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Gen Z,Medium High,Male,Highschool Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES
+CANADA,YES,Gen Z,Low,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium,Female,Masters’ Degree,YES,Suburban Areas,YES,NO,YES,NO,Unsatisfied,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Unsatisfied,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Metropolitan,NO,YES,YES,YES,Unsatisfied,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium High,Female,Highschool Graduate,YES,Rural Areas,YES,YES,YES,YES,Unsatisfied,YES,NO,YES,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Gen Z,Medium,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Gen Z,Medium High,Male,University Graduate,NO,Metropolitan,NO,YES,NO,YES,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Gen Z,Medium,Female,Highschool Graduate,YES,Rural Areas,YES,NO,NO,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,High,Male,Highschool Graduate,YES,Metropolitan,NO,NO,NO,NO,Unsatisfied,YES,YES,NO,YES,YES,YES,YES,NO,YES,NO
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Rural Areas,NO,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+CANADA,YES,Millennials,Medium High,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Gen X,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Unsatisfied,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,NO,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Gen Z,Medium High,Female,Highschool Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,Low,Female,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium High,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,NO,NO,YES,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,YES,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,High,Male,Highschool Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Unsatisfied,YES,YES,NO,NO,NO,YES,NO,NO,YES,NO
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Rural Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen Z,Low,Female,Highschool Graduate,NO,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,NO,YES,YES,NO
+CANADA,YES,Gen Z,Low,Male,University Graduate,NO,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,YES,NO,YES,NO,NO,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium,Female,Masters’ Degree,YES,Suburban Areas,YES,NO,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Millennials,Medium,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Gen X,High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Unsatisfied,YES,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,High,Male,Doctorate Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,NO,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Gen X,High,Male,University Graduate,YES,Metropolitan,NO,NO,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Low,Female,Doctorate Degree,NO,Rural Areas,YES,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+CANADA,NO,Gen Z,High,Male,University Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,Highschool Graduate,YES,Suburban Areas,NO,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,Doctorate Degree,YES,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,YES,YES,YES,NO,YES
+CANADA,NO,Gen Z,Low,Female,Highschool Graduate,YES,Rural Areas,YES,YES,NO,NO,Unsatisfied,YES,YES,YES,NO,NO,YES,NO,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,Doctorate Degree,NO,Metropolitan,YES,NO,YES,YES,Satisfied,NO,YES,YES,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Highschool Graduate,NO,Metropolitan,YES,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES
+CANADA,YES,Gen X,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Gen Z,Medium,Male,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,NO,YES,YES,YES,Satisfied,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Unsatisfied,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES
+CANADA,YES,Gen Z,Medium High,Female,Highschool Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,NO,Unsatisfied,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,Masters’ Degree,NO,Metropolitan,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES
+CANADA,YES,Millennials,Medium,Male,Highschool Graduate,YES,Metropolitan,NO,YES,NO,YES,Unsatisfied,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Gen X,Low,Female,Masters’ Degree,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,YES,NO,NO,YES,YES,NO,YES,NO
+CANADA,YES,Gen Z,Medium,Male,Highschool Graduate,NO,Rural Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO
+CANADA,YES,Gen X,Medium High,Male,Masters’ Degree,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Male,Highschool Graduate,YES,Suburban Areas,YES,NO,YES,NO,Satisfied,YES,YES,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Gen X,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,NO,Millennials,Medium,Male,University Graduate,YES,Rural Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO
+CANADA,YES,Gen X,Medium,Female,University Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO
+CANADA,YES,Millennials,Medium High,Female,Highschool Graduate,YES,Suburban Areas,NO,NO,YES,NO,Unsatisfied,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+CANADA,YES,Gen X,High,Female,Masters’ Degree,YES,Rural Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO
+CANADA,YES,Millennials,High,Female,Doctorate Degree,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,YES,YES,NO,YES,NO,NO,NO,NO
+CANADA,YES,Millennials,Low,Female,University Graduate,YES,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Gen Z,High,Male,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,NO,YES,YES,NO,YES,NO,YES,YES
+CANADA,NO,Millennials,Medium,Female,Highschool Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,Highschool Graduate,NO,Suburban Areas,NO,YES,YES,NO,Unsatisfied,YES,YES,NO,NO,YES,NO,YES,NO,NO,NO
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,YES,NO,YES,Satisfied,YES,NO,NO,NO,YES,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,NO,YES,NO,YES,Unsatisfied,NO,NO,YES,NO,NO,YES,YES,NO,NO,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Female,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,YES,YES,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,YES,YES,NO,YES,YES
+CANADA,YES,Millennials,Low,Male,Doctorate Degree,YES,Rural Areas,YES,YES,YES,NO,Satisfied,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO
+CANADA,YES,Millennials,Medium High,Female,Masters’ Degree,YES,Metropolitan,NO,YES,YES,YES,Unsatisfied,YES,YES,NO,NO,YES,YES,YES,NO,YES,YES
+CANADA,YES,Gen Z,High,Male,Doctorate Degree,YES,Metropolitan,NO,YES,NO,YES,Satisfied,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES
+CANADA,YES,Millennials,High,Male,Doctorate Degree,YES,Suburban Areas,YES,YES,NO,YES,Satisfied,YES,YES,YES,NO,NO,NO,YES,YES,YES,YES
+CANADA,YES,Millennials,High,Male,Masters’ Degree,YES,Suburban Areas,YES,YES,YES,YES,Satisfied,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES
+CANADA,YES,Gen X,Medium,Female,Highschool Graduate,NO,Suburban Areas,YES,NO,YES,YES,Satisfied,NO,NO,NO,YES,NO,YES,YES,YES,YES,YES
+CANADA,YES,Millennials,Medium High,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES
+CANADA,YES,Millennials,High,Female,University Graduate,YES,Metropolitan,YES,NO,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO
+CANADA,YES,Millennials,High,Female,Highschool Graduate,YES,Suburban Areas,NO,YES,YES,YES,Satisfied,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES
+CANADA,YES,Millennials,Medium,Male,University Graduate,YES,Metropolitan,YES,YES,YES,YES,Satisfied,NO,YES,NO,NO,NO,YES,YES,NO,YES,YES
