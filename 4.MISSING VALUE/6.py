@@ -56,7 +56,7 @@ test[cat_vars] = imputer_mode.transform(test[cat_vars])
 
 print(X_train[cat_vars].isnull().sum())
 
-print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;")
+# print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;")
 print(test[cat_vars].isnull().sum())
 print()
 print()

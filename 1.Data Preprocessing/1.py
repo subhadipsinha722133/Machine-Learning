@@ -2,9 +2,12 @@ import sklearn
 from sklearn.datasets import load_iris
 
 print(load_iris())
-# print(load_iris(return_X_y=True))
+
 X, y = load_iris(return_X_y=True)
 
+print()
+print()
+print()
 
 from sklearn.linear_model import LinearRegression
 

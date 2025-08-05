@@ -1,20 +1,17 @@
-import sklearn
-from sklearn.datasets import load_iris
+import pandas as pd
 
-# print(load_iris())
-# print(load_iris(return_X_y=True))
-X, y = load_iris(return_X_y=True)
+a = pd.read_csv("Scikit-Learn/cust_segmentation_Data.csv")
+print(a)
+
+print(a.isnull().sum())
+
+print(a.info())
+
+from sklearn.impute import SimpleImputer
 
 
-from sklearn.linear_model import LinearRegression
-
-model = LinearRegression()
-
-model.fit(X, y)
-print(model.predict(X))
-
-# from sklearn.neighbors import KNeighborsRegressor
-
-# mod = KNeighborsRegressor()
-# mod.fit(X, y)
-# print(mod.predict(X))
+k = a.select_dtypes(include="float64")
+kk = k.keys()
+sim = SimpleImputer(strategy="mean")
+w = pd.DataFrame(sim.fit_transform(a[kk]), columns=[kk])
+print(w)

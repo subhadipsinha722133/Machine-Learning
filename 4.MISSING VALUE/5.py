@@ -55,16 +55,16 @@ print(X_train[num_vars].isnull().sum())
 
 # Categorical Missing Value Imputation
 
-# train.drop("Name", axis=1, inplace=True)
-# train.drop("Sex", axis=1, inplace=True)
+train.drop("Name", axis=1, inplace=True)
+train.drop("Sex", axis=1, inplace=True)
 
-# cat_vars = X_train.select_dtypes(include=["O"]).columns
-# print(cat_vars)
-# print(X_train[cat_vars].isnull().sum())
+cat_vars = X_train.select_dtypes(include=["O"]).columns
+print(cat_vars)
+print(X_train[cat_vars].isnull().sum())
 
 
-# imputer_mode = SimpleImputer(strategy="most_frequent")
-# # # imputer_mean = SimpleImputer(strategy="constant", fill_value=99)
-# print(imputer_mode)
-# # print(imputer_mean)
-# print(imputer_mean.fit(X_train[cat_vars]))
+imputer_mode = SimpleImputer(strategy="most_frequent")
+imputer_mean = SimpleImputer(strategy="constant", fill_value=99)
+print(imputer_mode)
+print(imputer_mean)
+print(imputer_mean.fit(X_train[cat_vars]))
