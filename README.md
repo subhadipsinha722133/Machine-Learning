@@ -1,5 +1,6 @@
 Machine Learning Algorithms 🤖
-Supervised Learning
+
+Supervised Learning:------------------------------------
 Algorithms that learn from labeled data.
 
 Regression Algorithms: Used for predicting continuous values.
@@ -46,7 +47,8 @@ Perceptron
 
 Neural Networks (Feedforward, CNNs, RNNs for specific tasks)
 
-Unsupervised Learning
+
+Unsupervised Learning:-----------------------------------
 Algorithms that learn from unlabeled data, finding patterns or structures.
 
 Clustering Algorithms: Grouping similar data points together.
