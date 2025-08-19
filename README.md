@@ -1,87 +1,23 @@
-Machine Learning Algorithms 🤖
+# Machine Learning
 
-Supervised Learning:------------------------------------
-Algorithms that learn from labeled data.
+Welcome to the **Machine Learning** repository! This project contains a collection of machine learning experiments, notebooks, and scripts developed using Jupyter Notebook and Python.
 
-Regression Algorithms: Used for predicting continuous values.
+## Repository Overview
 
-Linear Regression
+- **Primary Languages:**  
+  - Jupyter Notebook (98.4%)
+  - Python (1.6%)
 
-Polynomial Regression
+- **Topics Covered:**
+  - Data preprocessing
+  - Supervised learning (classification & regression)
+  - Unsupervised learning (clustering, dimensionality reduction)
+  - Model evaluation and selection
+  - Feature engineering
+  - Visualization of results
 
-Ridge Regression
+## Getting Started
 
-Lasso Regression
-
-Elastic Net Regression
-
-Support Vector Regression (SVR)
-
-Decision Tree Regressor
-
-Random Forest Regressor
-
-Gradient Boosting Regressor (e.g., XGBoost, LightGBM, CatBoost)
-
-K-Nearest Neighbors (KNN) Regressor
-
-Classification Algorithms: Used for predicting discrete categories.
-
-Logistic Regression
-
-K-Nearest Neighbors (KNN) Classifier
-
-Support Vector Machine (SVM)
-
-Decision Tree Classifier
-
-Random Forest Classifier
-
-Gradient Boosting Classifier (e.g., XGBoost, LightGBM, CatBoost)
-
-Naive Bayes (Gaussian, Multinomial, Bernoulli)
-
-Stochastic Gradient Descent (SGD) Classifier
-
-Perceptron
-
-Neural Networks (Feedforward, CNNs, RNNs for specific tasks)
-
-
-Unsupervised Learning:-----------------------------------
-Algorithms that learn from unlabeled data, finding patterns or structures.
-
-Clustering Algorithms: Grouping similar data points together.
-
-K-Means Clustering
-
-Hierarchical Clustering (Agglomerative, Divisive)
-
-DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-
-Mean-Shift
-
-Gaussian Mixture Models (GMM)
-
-Affinity Propagation
-
-Spectral Clustering
-
-Dimensionality Reduction Algorithms: Reducing the number of features while preserving important information.
-
-Principal Component Analysis (PCA)
-
-Linear Discriminant Analysis (LDA) (Often used for classification, but also for dimensionality reduction)
-
-t-Distributed Stochastic Neighbor Embedding (t-SNE)
-
-Uniform Manifold Approximation and Projection (UMAP)
-
-Non-Negative Matrix Factorization (NMF)
-
-Association Rule Learning: Discovering relationships between variables in large datasets.
-
-Apriori Algorithm
-
-Eclat Algorithm
-
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/subhadipsinha722133/Machine-Learning.git
