@@ -363,7 +363,7 @@ If you find this repository helpful, please give it a star! ⭐
 ## 📞 Support
 
 For questions or support:
-- 📧 Email: subhadipsinha722133@gmail.com
+- 📧 Email: sinhasubhadip34@gmail.com
 - 💬 Open an issue on GitHub
 - 🔍 Check existing issues for solutions
 
